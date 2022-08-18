@@ -42,6 +42,7 @@ body {
     width: 98vw;
     height: 85vh;
     background: url(../img/photo.jpg) center center/cover;
+    background-position: top;
     border-radius: 10px;
     display: flex;
     align-items: flex-end;
